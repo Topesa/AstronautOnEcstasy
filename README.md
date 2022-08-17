@@ -30,7 +30,7 @@
 3. Open project with Unity
 
 ## Application building
-1. File -> Build Settings -> Select target platform and architecture -> Build
+1. `File` -> `Build Settings` -> `Select target platform and architecture` -> `Build`
 2. Have fun 
 
 ## Screenshots
